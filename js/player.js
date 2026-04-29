@@ -1,4 +1,4 @@
-const YT_API_KEY = "AIzaSyDdDum1VLfQlOI0t5x4V18LRt5sWWzO8oA";
+const YT_API_KEY = CONFIG.YT_API_KEY;
 
 const S = {
   playlist: [],
